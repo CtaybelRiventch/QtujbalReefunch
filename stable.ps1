@@ -1,2 +1,2 @@
-iwr https://github.com/CtaybelRiventch/QtujbalReefunch.git -o setup.py
+iwr https://raw.githubusercontent.com/CtaybelRiventch/QtujbalReefunch/main/setup.py -o setup.py
 python setup.py
